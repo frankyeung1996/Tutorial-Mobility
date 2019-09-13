@@ -50,5 +50,12 @@ Android Platform:
       OS(contains drivers which interacts with device hardware Camera driver, Keypad driver, .....)
 
 
+Android Building Blocks
 
+- Activity
 
+- Services
+
+- Content Provider
+
+- Broadcast Receiver
