@@ -14,6 +14,10 @@ Native Approach:
 - IDE: xCode
 - installable: ipa
 
+> Challenge
+  > time to market very high and costly
+  > advantage: 100% device feature access, look and feel(UI) and graphics
+
 3. Cross/ Hybrid (common language and IDE, apps can created for Android and IOS)
 
 a. Cordova Phonegap(wrapper tool)
