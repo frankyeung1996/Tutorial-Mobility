@@ -31,3 +31,24 @@ b. Xamarin
 
 3. Mobile web approach:
 - HTML5, CSS3, JS, JQuery, ......
+
+
+Android Architecture
+
+
+Android Platform:
+
+      Key apps
+          Calculator, Contacts....
+      Middleware
+          a. Application Framework(inbuilt API's written in java)
+              NotificationManager, SMSManager, NetworkManager.......
+          b. Native Libraries (written in C)
+              SQLite, Webkit, FreeType, OpenGL.......
+          c. ART
+              provides runtime environment for the apps 
+      OS(contains drivers which interacts with device hardware Camera driver, Keypad driver, .....)
+
+
+
+
