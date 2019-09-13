@@ -1,5 +1,10 @@
 # Tutorial Mobility
 
+Just for self learning and reference
+
+Useful Link:
+1. Kotlin (https://developer.android.com/kotlin)
+
 Android and IOS
 
 Native Approach:
@@ -59,3 +64,28 @@ Android Building Blocks
 - Content Provider
 
 - Broadcast Receiver
+
+
+Execution:
+
+    1. compiler (compiles al the .kt files to .class files)
+    2. dexer(dx) (converts all .class files to a single .dex file)
+    3. ART(.dex + Resources + AndroidManifest.xml) ->> .apk
+    
+
+1 screen = 1 Activity(.java or .kt) + 1 layout(.xml)
+
+  layout acts as a container for placing the UI elements
+  a. LinearLayout
+  b. TableLayout
+  c. ConstraintLayout
+  
+UI elements or Views or Widgers:
+
+  Button
+  Checkbox
+  RadioButton
+  TextView
+  EditText
+  ListView
+  RecyclerView........
